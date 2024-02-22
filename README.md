@@ -1,17 +1,30 @@
 OpenCV kullanılarak  Görüntü İşleme GUI uygulamasının kodları bulunmaktadır.
 Yapılabilen İşlemler :''Resim Dışına Kenarlık Ekleme',
+
                                 'Blurlaştırma',
+                                
                                 'Gama Değeri',
+                                
                                 'Histogram',
+                                
                                 'adaptive_threshold',
+                                
                                 'Sobel ayarı',
+                                
                                 'Laplacian Kenar Tespiti',
+                                
                                 'Canny Kenar Tespiti',
+                                
                                 'Deriche Filtresi',
+                                
                                 'Harris Corner Detection',
+                                
                                 'Contour Detection',
+                                
                                 'Yüz Tespiti',
+                                
                                 'Watershed Segmentasyon'
+                                
 
 
 
