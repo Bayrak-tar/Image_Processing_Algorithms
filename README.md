@@ -1,5 +1,6 @@
 OpenCV kullanılarak  Görüntü İşleme GUI uygulamasının kodları bulunmaktadır.
-Yapılabilen İşlemler :''Resim Dışına Kenarlık Ekleme',
+Yapılabilen İşlemler :
+                                'Resim Dışına Kenarlık Ekleme',
 
                                 'Blurlaştırma',
                                 
