@@ -12,6 +12,9 @@ Yapılabilen İşlemler :''Resim Dışına Kenarlık Ekleme',
                                 'Contour Detection',
                                 'Yüz Tespiti',
                                 'Watershed Segmentasyon'
+
+
+                                
 Kenarlık Ekleme İşlemi
 ![image](https://github.com/Bayrak-tar/Image_Processing_Algorithms/assets/107275132/2f500db2-bb02-4d7b-9936-caaa55db9101)
  Bulurlaştırma İşlemi
